@@ -1,0 +1,8 @@
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\WpfApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\Windows\ElementsBindingWindow.g.cs
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\Windows\ProductsWindow.g.cs
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\App.g.cs
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\328-2\Desktop\Pankrateva\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
